@@ -1,0 +1,10 @@
+{
+  "name": "git-ts-node2",
+  "version": "0.0.0",
+  "description": "gitTsNode2",
+  "main": "app.js",
+  "author": {
+    "name": "Nata",
+    "email": ""
+  }
+}
