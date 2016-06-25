@@ -4,4 +4,5 @@
 /vladi - Web Deploy.pubxml.user
 /obj
 /node_modules
-/gitTsNode2.njsproj
+*.njsproj
+*.dll
